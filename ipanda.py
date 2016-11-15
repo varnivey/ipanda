@@ -1,11 +1,12 @@
+#!/usr/bin/python
 
 ### This file is a part of iPANDA package
 ### (in silico Pathway Activation Network Decomposition Analysis)
 ### The package is distributed under iPANDA license
-### 
+###
 ### Copyright © 2016 Insilico Medicine Inc.
 ###
-### USA, Johns Hopkins University, ETC B301, 
+### USA, Johns Hopkins University, ETC B301,
 ### 1101 East 33rd St. Baltimore, MD 21218
 
 import PAS_calc as pc
