@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 ### This file is a part of iPANDA package
 ### (in silico Pathway Activation Network Decomposition Analysis)
