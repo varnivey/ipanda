@@ -1,0 +1,371 @@
+KEGG_Rap1_signaling_Main_Pathway	KEGG_VEGF_signaling_Main_Pathway	KEGG_Ras_signaling_Main_Pathway	KEGG_Tryptophan_metabolism_Main_Pathway	KEGG_TNF_signaling_Main_Pathway	KEGG_PI3K_Akt_signaling_Main_Pathway	KEGG_AMPK_signaling_Main_Pathway	KEGG_Apoptosis_Main_Pathway	KEGG_TGF_beta_signaling_Main_Pathway	KEGG_Cell_cycle_Main_Pathway	KEGG_mTOR_signaling_Main_Pathway	KEGG_Notch_signaling_Main_Pathway	KEGG_Insulin_signaling_Main_Pathway	KEGG_NF_kappa_B_signaling_Main_Pathway	KEGG_ErbB_signaling_Main_Pathway	KEGG_Jak_STAT_signaling_Main_Pathway	KEGG_cAMP_signaling_Main_Pathway	KEGG_Regulation_of_autophagy_Main_Pathway	KEGG_MAPK_signaling_Main_Pathway
+ADCY2	AKT3	ABL1	AADAT	AKT3	AKT3	ACACA	BIRC8	ACVR1B	ABL1	AKT3	APH1A	AKT3	BCL2	ABL1	AKT3	ACOX1	ATG16L1	AKT3
+ADCY3	BAD	AKT3	AANAT	CEBPB	ANGPT1	ADRA1A	CAPN1	ACVR1C	ANAPC13	BRAF	APH1B	ARAF	BLNK	AKT3	CBLB	ACOX3	ATG16L2	ARRB1
+ADCY4	CASP9	ANGPT1	ACMSD	CFLAR	ANGPT2	AKT3	CAPN2	ACVR2A	ANAPC7	DDIT4	CIR1	BRAF	CCL13	ARAF	CCND1	ADCY10	ATG3	ATF4
+ADCY6	CDC42	ANGPT2	AFMID	CHUK	ATF4	CAB39L	CASP3	ACVR2B	ATM	EIF4B	CREBBP	CBLB	CCL4L1	AREG	CCND2	ADCY2	GABARAP	BDNF
+ADCY7	HSPB1	ARF6	ALDH1B1	JUN	BAD	CCNA1	CASP6	BAMBI	BUB1B	EIF4E1B	CTBP1	EIF4E1B	CCL4L2	BAD	CCND3	ADCY3	GABARAPL1	BRAF
+ADCY8	JMJD7-PLA2G4B	BAD	ALDH2	LTA	BCL2	CCND1	CASP7	BMPR1A	CCNA1	EIF4E2	CTBP2	EIF4E2	CD40	BRAF	CISH	ADCY4	mod0002	CACNA1C
+ADCY9	KRAS	BRAP	ALDH3A2	MAGI2	BCL2L11	CD36	CASP8	BMPR1B	CCNB1	HIF1A	DTX1	ELK1	CFLAR	BTC	CLCF1	ADCY6	mod0054	CACNA1D
+ADORA2A	MAPK13	CALM2	ALDH7A1	MAP2K6	C8orf44-SGK3	CFTR	CASP9	CDKN2B	CCNB2	INS	DTX2	GRB2	CHUK	CBLB	CNTF	ADCY7	mod0223	CACNA1F
+ADORA2B	MAPKAPK3	CALM3	AOC1	MAP2K7	CASP9	CREB3L1	CFLAR	CREBBP	CCNB3	IRS1	DTX3L	INS	GADD45B	CDKN1A	CNTFR	ADCY8	mod0224	CACNA2D1
+AKT3	NOS3	CALML3	AOX1	MAP3K14	CCND1	CREB3L2	DFFB	E2F5	CCND1	MTOR	DTX4	INSR	ICAM1	CDKN1B	CREBBP	ADCY9	mod0234	CACNA2D2
+ANGPT1	PIK3CB	CALML5	ASMT	MAP3K5	CCND2	CREB3L3	FAS	EP300	CCND2	PDPK1	DVL1	IRS1	IRAK4	EGF	CRLF2	ADCYAP1R1	mod0270	CACNA2D3
+ANGPT2	PIK3CD	CALML6	CAT	MAPK10	CCND3	CREB3L4	IL1A	FST	CCND3	PIK3CB	DVL2	IRS2	LTA	ELK1	CSF2RA	ADORA2A	mod0275	CACNA2D4
+ARAP3	PIK3R1	CDC42	CCBL1	MAPK13	CCNE1	CREB5	IL1RAP	ID4	CCNE1	PIK3CD	DVL3	IRS4	LTBR	ERBB2	CSF3	ADRB1	mod0297	CACNB2
+BCAR1	PIK3R3	CHUK	CCBL2	MAPK8	CDK6	EEF2	IRAK2	INHBB	CDC14A	PIK3R1	EP300	KRAS	MAP3K14	ERBB4	CSH1	ADRB2	mod0308	CACNB3
+BRAF	PLA2G4A	CSF1	CYP1A1	PIK3CB	CDKN1A	EEF2K	IRAK3	INHBE	CDC23	PIK3R3	HDAC2	MAPK10	TICAM1	EREG	CSH2	AKT3	mod0312	CACNB4
+CALM2	PLA2G4B	EFNA1	DDC	PIK3CD	CDKN1B	GYS2	IRAK4	LEFTY1	CDC25B	PRKAA2	HES1	MAPK8	TICAM2	GAB1	EP300	AMH	mod0331	CACNG1
+CALM3	PLA2G4C	EFNA3	HAAO	PIK3R1	CHRM1	HMGCR	MAP3K14	LEFTY2	CDC25C	PRKCB	HES5	MKNK1	TIRAP	GRB2	GH1	ARAP3	mod0339	CACNG2
+CALML3	PLA2G4E	EFNA4	IDO2	PIK3R3	CHUK	IGF1R	TNF	LTBP1	CDC45	RPS6KA1	JAG2	MKNK2	TNF	GSK3B	GH2	ATP1A1	mod0354	CACNG3
+CALML5	PLCG1	EFNA5	KYNU	RIPK3	CREB3L1	INS	TNFRSF10A	MYC	CDC6	RPS6KA2	KAT2A	MTOR	TNFRSF11A	HBEGF	GHR	ATP1A2		CASP3
+CALML6	PPP3CB	EGF	MAOA	RPS6KA5	CREB3L2	INSR	TNFRSF10D	NODAL	CDC7	RPS6KA3	KAT2B	PDPK1	TNFRSF13C	JUN	GRB2	ATP1A4		CDC25B
+CDC42	PPP3CC	ELK1	MAOB	TNF	CREB3L3	IRS1	TRADD	PITX2	CDK6	STK11	MAML1	PIK3CB	TNFSF11	KRAS	IFNA1	ATP1B1		CDC42
+CSF1	PPP3R2	EPHA2	TDO2	TRAF5	CREB3L4	IRS2	mod0018	SMAD1	CDK7	TSC2	MAML2	PIK3CD	TNFSF14	MAP2K7	IFNA13	ATP1B2		CHUK
+DOCK4	PRKCB	ETS1	TPH1	mod0014	CREB5	IRS4	mod0019	SMAD4	CDKN1A	ULK1	MFNG	PIK3R1	TRADD	MAPK10	IFNA2	ATP1B3		DAXX
+EFNA1	PTK2	ETS2	TPH2	mod0015	CSF1	LOC101930123	mod0023	SMAD9	CDKN1B	ULK2	NOTCH2	PIK3R3	TRAF3	MAPK8	IFNA5	ATP2B1		DUSP10
+EFNA3	PXN	FGF1	mod0001	mod0019	DDIT4	MTOR	mod0027	SMURF2	CDKN2B	ULK3	NUMB	PRKCZ	TRAF5	MTOR	IFNA6	ATP2B4		DUSP2
+EFNA4	RAC1	FGF10	mod0140	mod0023	EFNA1	PCK1	mod0066	SP1	CDKN2C	dr:D00944	NUMBL	PTPN1	TRAF6	MYC	IFNA8	BAD		DUSP4
+EFNA5	RAC3	FGF12	mod0146	mod0025	EFNA3	PCK2	mod0104	TFDP1	CDKN2D	mod0006	PSEN2	PTPRF	TRIM25	NCK2	IFNAR1	BDNF		DUSP5
+EGF	RAF1	FGF13	mod0157	mod0036	EFNA4	PDPK1	mod0108	TGFB2	E2F3	mod0025	RBPJ	RAF1	mod0012	NRG2	IFNAR2	BRAF		DUSP6
+EPHA2	SHC2	FGF14	mod0173	mod0044	EFNA5	PFKFB2	mod0113	TGFB3	E2F5	mod0059	RBPJL	RAPGEF1	mod0019	NRG3	IFNB1	CACNA1C		DUSP7
+F2R	SPHK2	FGF16	mod0180	mod0067	EGF	PFKFB3	mod0120	TGFBR1	ESPL1	mod0074	mod0017	RHOQ	mod0023	NRG4	IFNE	CACNA1D		DUSP8
+F2RL3	mod0010	FGF19	mod0206	mod0074	EIF4B	PFKFB4	mod0135	TGFBR2	FZR1	mod0097	mod0071	SH2B2	mod0027	PAK1	IFNGR1	CACNA1F		DUSP9
+FARP2	mod0025	FGF2		mod0077	EIF4E1B	PIK3CB	mod0139	TNF	GADD45A	mod0115	mod0073	SHC2	mod0042	PAK3	IFNGR2	CALM2		EGF
+FGF1	mod0026	FGF20		mod0113	EIF4E2	PIK3CD	mod0150	ZFYVE16	GADD45B	mod0156	mod0081	SHC4	mod0063	PAK4	IFNK	CALM3		ELK1
+FGF10	mod0036	FGF21		mod0115	EPHA2	PIK3R1	mod0151	ZFYVE9	GADD45G	mod0176	mod0083	SLC2A4	mod0077	PAK6	IFNL1	CALML3		ELK4
+FGF12	mod0058	FGF23		mod0119	F2R	PIK3R3	mod0152	mod0006	GSK3B	mod0179	mod0092	SOCS1	mod0106	PAK7	IFNL3	CALML5		FAS
+FGF13	mod0059	FGF3		mod0131	FGF1	PPARG	mod0179	mod0007	HDAC2	mod0187	mod0093	SOCS2	mod0113	PIK3CB	IFNW1	CALML6		FGF1
+FGF14	mod0074	FGF4		mod0138	FGF10	PPARGC1A	mod0180	mod0037	MAD2L2	mod0188	mod0101	SREBF1	mod0117	PIK3CD	IL10	CAMK4		FGF10
+FGF16	mod0077	FGF5		mod0139	FGF12	PRKAA2	mod0231	mod0038	MCM2	mod0189	mod0163	TRIP10	mod0130	PIK3R1	IL11RA	CFTR		FGF12
+FGF19	mod0083	FGF7		mod0170	FGF13	PRKAB2	mod0236	mod0079	MCM6	mod0193	mod0191	TSC1	mod0132	PIK3R3	IL12A	CHRM1		FGF13
+FGF2	mod0097	FGF9		mod0176	FGF14	PRKAG3	mod0242	mod0085	MYC	mod0198	mod0201	TSC2	mod0135	PLCG1	IL12B	CNGA1		FGF14
+FGF20	mod0101	FGFR1		mod0178	FGF16	RAB2A	mod0262	mod0115	ORC1	mod0207	mod0203	mod0006	mod0138	PRKCB	IL12RB1	CNGA2		FGF16
+FGF21	mod0115	FGFR3		mod0193	FGF19	RPTOR	mod0295	mod0133	ORC6	mod0237	mod0204	mod0007	mod0139	PTK2	IL12RB2	CNGA3		FGF19
+FGF23	mod0135	FGFR4		mod0204	FGF2	SCD5	mod0306	mod0137	PCNA	mod0239	mod0213	mod0010	mod0142	RAF1	IL13RA2	CNGA4		FGF2
+FGF3	mod0143	FIGF		mod0208	FGF20	SLC2A4	mod0307	mod0143	PTTG1	mod0246	mod0214	mod0014	mod0150	SHC2	IL19	CREB3L1		FGF20
+FGF4	mod0157	FLT1		mod0221	FGF21	SREBF1	mod0316	mod0156	PTTG2	mod0270	mod0226	mod0025	mod0151	SHC4	IL2	CREB3L2		FGF21
+FGF5	mod0176	FOXO4		mod0237	FGF23	STK11	mod0333	mod0179	RBL2	mod0271	mod0238	mod0030	mod0156	STAT5B	IL20	CREB3L3		FGF23
+FGF7	mod0179	GAB1		mod0242	FGF3	STRADA	mod0337	mod0180	SMAD4	mod0275	mod0252	mod0032	mod0159	TGFA	IL20RB	CREB3L4		FGF3
+FGF9	mod0181	GAB2		mod0243	FGF4	TBC1D1	mod0355	mod0181	SMC1A	mod0278	mod0266	mod0036	mod0169	mod0006	IL21	CREB5		FGF4
+FGFR1	mod0188	GNB3		mod0246	FGF5	TSC1		mod0186	SMC1B	mod0285	mod0315	mod0074	mod0170	mod0010	IL22	CREBBP		FGF5
+FGFR3	mod0193	GNB4		mod0248	FGF7	TSC2		mod0189	SMC3	mod0297	mod0327	mod0092	mod0172	mod0014	IL22RA1	DRD1		FGF7
+FGFR4	mod0198	GNG11		mod0250	FGF9	ULK1		mod0203	TFDP1	mod0298	mod0331	mod0108	mod0178	mod0025	IL22RA2	DRD5		FGF9
+FIGF	mod0204	GNG12		mod0253	FGFR1	mod0006		mod0205	TFDP2	mod0301	mod0334	mod0115	mod0180	mod0030	IL23A	EP300		FGFR1
+FLT1	mod0205	GNG2		mod0270	FGFR3	mod0025		mod0216	TP53	mod0308	mod0372	mod0176	mod0181	mod0032	IL23R	F2R		FGFR3
+FYB	mod0208	GNG3		mod0275	FGFR4	mod0035		mod0230	TTK	mod0309		mod0187	mod0184	mod0036	IL24	FSHB		FGFR4
+GNAQ	mod0237	GNG4		mod0283	FIGF	mod0041		mod0232	WEE1	mod0314		mod0188	mod0227	mod0058	IL26	FSHR		FLNB
+HGF	mod0242	GNG8		mod0291	FLT1	mod0042		mod0234	WEE2	mod0325		mod0189	mod0237	mod0059	IL2RB	FXYD1		FLNC
+IGF1R	mod0246	GNGT1		mod0297	FOXO3	mod0050		mod0237	YWHAQ	mod0332		mod0193	mod0242	mod0074	IL3	FXYD2		GNA12
+INS	mod0249	GRB2		mod0309	G6PC	mod0055		mod0245	ZBTB17	mod0334		mod0203	mod0243	mod0078	IL3RA	GABBR1		GNG12
+INSR	mod0250	HGF		mod0314	GNB3	mod0072		mod0252	mod0000	mod0346		mod0211	mod0253	mod0092	IL4	GABBR2		GRB2
+ITGA2B	mod0257	IGF1R		mod0317	GNB4	mod0074		mod0256	mod0003	mod0353		mod0236	mod0262	mod0096	IL4R	GHRL		HSPA1A
+ITGB1	mod0270	INS		mod0325	GNG11	mod0076		mod0259	mod0004	mod0354		mod0237	mod0278	mod0097	IL5	GLI3		HSPA1B
+ITGB3	mod0271	INSR		mod0332	GNG12	mod0082		mod0263	mod0005	mod0358		mod0239	mod0285	mod0108	IL5RA	GNAI1		HSPA2
+KIT	mod0275	JMJD7-PLA2G4B		mod0334	GNG2	mod0086		mod0266	mod0009	mod0360		mod0246	mod0291	mod0115	IL6R	GPR119		HSPA6
+KITLG	mod0283	KIT		mod0339	GNG3	mod0089		mod0269	mod0011	mod0362		mod0255	mod0301	mod0124	IL7	GRIA1		HSPB1
+KRAS	mod0291	KITLG		mod0342	GNG4	mod0109		mod0270	mod0013	mod0363		mod0270	mod0306	mod0176	IL9	GRIA2		IL1R2
+LAT	mod0308	KRAS		mod0345	GNG8	mod0114		mod0273	mod0016	mod0366		mod0275	mod0316	mod0187	IL9R	GRIA3		JMJD7-PLA2G4B
+LPAR1	mod0309	KSR2		mod0346	GNGT1	mod0126		mod0275	mod0017	mod0367		mod0278	mod0317	mod0188	JAK2	GRIA4		JUN
+LPAR2	mod0311	LAT		mod0351	GRB2	mod0156		mod0277	mod0031	mod0372		mod0291	mod0319	mod0189	MYC	GRIN2A		KRAS
+LPAR3	mod0314	LOC648044		mod0357	GSK3B	mod0161		mod0292	mod0034			mod0297	mod0334	mod0193	PIAS1	GRIN2B		LAMTOR3
+LPAR4	mod0317	MAPK10		mod0361	GYS2	mod0162		mod0302	mod0037			mod0301	mod0342	mod0198	PIAS2	GRIN2D		LOC648044
+LPAR5	mod0325	MAPK8		mod0362	HGF	mod0165		mod0308	mod0038			mod0305	mod0345	mod0203	PIAS3	GRIN3B		MAP2K6
+MAGI2	mod0329	MET		mod0363	HSP90AA1	mod0176		mod0309	mod0040			mod0308	mod0346	mod0208	PIAS4	HCAR1		MAP2K7
+MAGI3	mod0332	MRAS		mod0366	IGF1R	mod0187		mod0314	mod0046			mod0309	mod0351	mod0211	PIK3CB	HCAR2		MAP3K1
+MAP2K6	mod0334	NGF		mod0371	INS	mod0189		mod0315	mod0047			mod0311	mod0355	mod0221	PIK3CD	HHIP		MAP3K11
+MAPK13	mod0339	NGFR			INSR	mod0193		mod0327	mod0048			mod0314	mod0356	mod0237	PIK3R1	HTR1A		MAP3K12
+MET	mod0341	PAK1			IRS1	mod0195		mod0334	mod0068			mod0315	mod0361	mod0246	PIK3R3	HTR1D		MAP3K13
+MRAS	mod0346	PAK3			KIT	mod0220		mod0335	mod0082			mod0323	mod0365	mod0247	PIM1	HTR1F		MAP3K14
+NGF	mod0354	PAK4			KITLG	mod0229		mod0337	mod0085			mod0325	mod0367	mod0255	PRL	JUN		MAP3K3
+NGFR	mod0360	PAK6			KRAS	mod0246		mod0349	mod0179			mod0332	mod0371	mod0270	PRLR	MAPK10		MAP3K5
+P2RY1	mod0362	PAK7			LOC648044	mod0252		mod0351	mod0192			mod0334		mod0271	SOCS1	MAPK8		MAP3K6
+PARD3	mod0363	PDGFA			LPAR1	mod0253		mod0352	mod0193			mod0342		mod0275	SOCS2	MC2R		MAP4K4
+PARD6A	mod0366	PDGFC			LPAR2	mod0270		mod0354	mod0212			mod0343		mod0291	SOCS7	NPR1		MAPK10
+PARD6B	mod0371	PDGFD			LPAR3	mod0274		mod0362	mod0217			mod0345		mod0297	SPRED3	NPY		MAPK13
+PDGFA		PGF			LPAR4	mod0275		mod0363	mod0218			mod0346		mod0305	SPRY2	NPY1R		MAPK8
+PDGFC		PIK3CB			LPAR5	mod0284		mod0366	mod0222			mod0353		mod0308	SPRY4	OXTR		MAPKAPK3
+PDGFD		PIK3CD			LPAR6	mod0285		mod0368	mod0225			mod0354		mod0309	STAM	PAK1		MAPKAPK5
+PFN2		PIK3R1			MET	mod0298		mod0369	mod0230			mod0358		mod0311	STAT2	PDE3A		MAPT
+PFN3		PIK3R3			MTCP1	mod0300			mod0233			mod0362		mod0314	STAT3	PDE3B		MAX
+PFN4		PLA1A			MTOR	mod0301			mod0236			mod0363		mod0315	STAT5B	PDE4B		MECOM
+PGF		PLA2G10			MYB	mod0308			mod0237			mod0366		mod0325	STAT6	PDE4C		MEF2C
+PIK3CB		PLA2G12A			MYC	mod0309			mod0238			mod0367		mod0332	THPO	PDE4D		MKNK1
+PIK3CD		PLA2G12B			NGF	mod0312			mod0240			mod0371		mod0334	TSLP	PIK3CB		MKNK2
+PIK3R1		PLA2G16			NGFR	mod0314			mod0241			mod0372		mod0343	mod0007	PIK3CD		MOS
+PIK3R3		PLA2G1B			NOS3	mod0325			mod0244					mod0345	mod0025	PIK3R1		MRAS
+PLCB1		PLA2G2A			NR4A1	mod0326			mod0245					mod0346	mod0030	PIK3R3		MYC
+PLCB2		PLA2G2C			PCK1	mod0332			mod0251					mod0353	mod0045	PLCE1		NFATC3
+PLCB3		PLA2G2E			PCK2	mod0342			mod0252					mod0354	mod0057	PLD1		NGF
+PLCB4		PLA2G2F			PDGFA	mod0346			mod0256					mod0359	mod0074	PPARA		NTF3
+PLCE1		PLA2G3			PDGFC	mod0353			mod0261					mod0360	mod0084	PPP1CB		NTF4
+PLCG1		PLA2G4A			PDGFD	mod0354			mod0263					mod0362	mod0092	PPP1R1B		NTRK1
+PRKCB		PLA2G4B			PDPK1	mod0360			mod0267					mod0363	mod0098	PRKACB		NTRK2
+PRKCZ		PLA2G4C			PGF	mod0361			mod0270					mod0366	mod0103	PRKACG		PAK1
+PRKD1		PLA2G4E			PHLPP1	mod0362			mod0274					mod0368	mod0108	PRKX		PDGFA
+PRKD2		PLA2G5			PHLPP2	mod0363			mod0275					mod0371	mod0112	PTGER2		PLA2G4A
+PRKD3		PLA2G6			PIK3CB	mod0366			mod0277						mod0121	RAC1		PLA2G4B
+RAC1		PLCE1			PIK3CD	mod0372			mod0279						mod0122	RAC3		PLA2G4C
+RAC3		PLCG1			PIK3R1				mod0284						mod0123	RAF1		PLA2G4E
+RAF1		PLD1			PIK3R3				mod0289						mod0127	RAP1A		PPM1A
+RAP1A		PRKACB			PKN3				mod0291						mod0129	RAPGEF4		PPP3CB
+RAPGEF1		PRKACG			PPP2R2A				mod0292						mod0134	ROCK2		PPP3CC
+RAPGEF2		PRKCB			PPP2R2D				mod0293						mod0135	RRAS2		PPP3R2
+RAPGEF4		PRKX			PPP2R3A				mod0294						mod0139	RYR2		PPP5D1
+RAPGEF5		RAC1			PPP2R3B				mod0295						mod0142	SLC9A1		PRKACB
+RAPGEF6		RAC3			PPP2R5B				mod0299						mod0143	SOX9		PRKACG
+RASGRP3		RAF1			PPP2R5C				mod0303						mod0148	SSTR1		PRKCB
+RGS14		RALBP1			PRKAA2				mod0307						mod0149	SSTR2		PRKX
+SIPA1L1		RAPGEF5			PRKCZ				mod0308						mod0150	SSTR5		PTPN7
+SIPA1L2		RASA3			PTEN				mod0309						mod0158	SUCNR1		PTPRR
+SKAP1		RASA4			RAF1				mod0310						mod0167	TIAM1		RAC1
+TIAM1		RASA4B			RBL2				mod0312						mod0169	TSHR		RAC3
+TLN1		RASAL1			RPTOR				mod0314						mod0170	VAV3		RAF1
+TLN2		RASAL2			RXRA				mod0320						mod0174	VIPR2		RAP1A
+VASP		RASGRF1			SGK2				mod0324						mod0175	mod0014		RAPGEF2
+VEGFC		RASGRF2			SGK3				mod0326						mod0176	mod0019		RASGRF1
+mod0010		RASGRP1			STK11				mod0328						mod0180	mod0025		RASGRF2
+mod0019		RASGRP3			TCL1B				mod0330						mod0183	mod0036		RASGRP1
+mod0025		RASSF1			THEM4				mod0333						mod0190	mod0051		RASGRP3
+mod0029		REL			TP53				mod0334						mod0193	mod0060		RPS6KA1
+mod0032		RRAS2			TSC1				mod0335						mod0196	mod0061		RPS6KA2
+mod0036		SHC2			TSC2				mod0336						mod0201	mod0064		RPS6KA3
+mod0049		SHC4			VEGFC				mod0337						mod0205	mod0070		RPS6KA5
+mod0058		TBK1			YWHAQ				mod0339						mod0211	mod0073		RRAS2
+mod0059		TIAM1			mod0006				mod0344						mod0223	mod0074		SRF
+mod0065		VEGFC			mod0008				mod0347						mod0236	mod0077		STMN1
+mod0069		mod0010			mod0010				mod0351						mod0246	mod0078		TGFB2
+mod0074		mod0014			mod0016				mod0352						mod0256	mod0084		TGFB3
+mod0084		mod0016			mod0020				mod0353						mod0276	mod0089		TGFBR1
+mod0087		mod0020			mod0025				mod0354						mod0282	mod0090		TGFBR2
+mod0088		mod0024			mod0028				mod0357						mod0291	mod0095		TP53
+mod0089		mod0025			mod0030				mod0362						mod0301	mod0096		TRAF6
+mod0091		mod0026			mod0031				mod0363						mod0305	mod0097		ZAK
+mod0095		mod0030			mod0036				mod0365						mod0309	mod0100		mod0010
+mod0097		mod0036			mod0039				mod0367						mod0317	mod0101		mod0014
+mod0098		mod0042			mod0043				mod0369						mod0325	mod0105		mod0019
+mod0099		mod0045			mod0055				mod0370						mod0332	mod0110		mod0021
+mod0102		mod0056			mod0056				mod0372						mod0334	mod0111		mod0022
+mod0114		mod0059			mod0059										mod0342	mod0112		mod0024
+mod0115		mod0060			mod0065										mod0346	mod0115		mod0026
+mod0116		mod0065			mod0069										mod0350	mod0118		mod0030
+mod0119		mod0066			mod0074										mod0357	mod0135		mod0032
+mod0125		mod0069			mod0075										mod0359	mod0151		mod0033
+mod0128		mod0074			mod0077										mod0362	mod0155		mod0036
+mod0133		mod0077			mod0079											mod0157		mod0042
+mod0144		mod0084			mod0080											mod0169		mod0052
+mod0145		mod0087			mod0087											mod0176		mod0053
+mod0147		mod0088			mod0088											mod0177		mod0059
+mod0151		mod0095			mod0095											mod0178		mod0060
+mod0154		mod0097			mod0098											mod0182		mod0062
+mod0156		mod0098			mod0099											mod0185		mod0063
+mod0157		mod0099			mod0102											mod0193		mod0065
+mod0166		mod0101			mod0114											mod0194		mod0066
+mod0168		mod0102			mod0115											mod0195		mod0067
+mod0170		mod0105			mod0125											mod0196		mod0069
+mod0176		mod0107			mod0128											mod0197		mod0077
+mod0179		mod0111			mod0141											mod0198		mod0088
+mod0180		mod0114			mod0152											mod0199		mod0090
+mod0188		mod0115			mod0154											mod0201		mod0094
+mod0190		mod0118			mod0156											mod0202		mod0095
+mod0191		mod0125			mod0157											mod0205		mod0096
+mod0193		mod0128			mod0164											mod0208		mod0097
+mod0196		mod0151			mod0170											mod0209		mod0098
+mod0198		mod0152			mod0176											mod0213		mod0100
+mod0201		mod0153			mod0179											mod0214		mod0101
+mod0202		mod0154			mod0182											mod0217		mod0102
+mod0204		mod0156			mod0186											mod0219		mod0104
+mod0208		mod0157			mod0187											mod0224		mod0107
+mod0209		mod0160			mod0188											mod0237		mod0113
+mod0212		mod0163			mod0189											mod0243		mod0115
+mod0214		mod0170			mod0191											mod0246		mod0118
+mod0237		mod0171			mod0193											mod0252		mod0119
+mod0239		mod0176			mod0195											mod0257		mod0128
+mod0242		mod0179			mod0201											mod0259		mod0136
+mod0246		mod0184			mod0202											mod0260		mod0138
+mod0250		mod0188			mod0203											mod0266		mod0151
+mod0255		mod0191			mod0204											mod0269		mod0152
+mod0257		mod0193			mod0205											mod0270		mod0154
+mod0258		mod0198			mod0207											mod0272		mod0170
+mod0259		mod0199			mod0215											mod0285		mod0171
+mod0260		mod0200			mod0228											mod0286		mod0178
+mod0265		mod0201			mod0232											mod0287		mod0180
+mod0268		mod0202			mod0234											mod0290		mod0182
+mod0270		mod0203			mod0235											mod0297		mod0188
+mod0271		mod0204			mod0237											mod0309		mod0193
+mod0275		mod0205			mod0238											mod0311		mod0194
+mod0280		mod0208			mod0239											mod0314		mod0196
+mod0283		mod0217			mod0241											mod0315		mod0198
+mod0285		mod0221			mod0243											mod0325		mod0201
+mod0288		mod0228			mod0244											mod0327		mod0202
+mod0291		mod0237			mod0245											mod0329		mod0203
+mod0306		mod0242			mod0246											mod0332		mod0204
+mod0308		mod0243			mod0252											mod0334		mod0205
+mod0309		mod0245			mod0258											mod0336		mod0207
+mod0310		mod0246			mod0259											mod0342		mod0208
+mod0311		mod0250			mod0261											mod0345		mod0210
+mod0313		mod0255			mod0268											mod0346		mod0217
+mod0314		mod0257			mod0270											mod0349		mod0221
+mod0315		mod0258			mod0275											mod0353		mod0235
+mod0317		mod0259			mod0278											mod0358		mod0237
+mod0318		mod0260			mod0279											mod0362		mod0242
+mod0322		mod0264			mod0281											mod0363		mod0243
+mod0323		mod0268			mod0284											mod0366		mod0245
+mod0325		mod0270			mod0285											mod0368		mod0249
+mod0329		mod0271			mod0291											mod0371		mod0250
+mod0332		mod0285			mod0292													mod0253
+mod0334		mod0291			mod0297													mod0254
+mod0335		mod0297			mod0299													mod0255
+mod0338		mod0301			mod0301													mod0256
+mod0339		mod0305			mod0305													mod0257
+mod0340		mod0306			mod0306													mod0258
+mod0342		mod0308			mod0307													mod0259
+mod0343		mod0309			mod0308													mod0263
+mod0345		mod0311			mod0309													mod0264
+mod0346		mod0314			mod0311													mod0266
+mod0348		mod0315			mod0312													mod0268
+mod0350		mod0317			mod0314													mod0270
+mod0358		mod0321			mod0317													mod0271
+mod0359		mod0325			mod0324													mod0275
+mod0362		mod0331			mod0325													mod0283
+mod0363		mod0332			mod0332													mod0284
+mod0364		mod0334			mod0334													mod0285
+mod0366		mod0335			mod0335													mod0291
+mod0367		mod0338			mod0338													mod0292
+mod0371		mod0342			mod0342													mod0296
+mod0372		mod0345			mod0344													mod0297
+		mod0346			mod0345													mod0304
+		mod0350			mod0346													mod0305
+		mod0351			mod0350													mod0306
+		mod0353			mod0351													mod0308
+		mod0357			mod0353													mod0309
+		mod0359			mod0354													mod0311
+		mod0360			mod0355													mod0312
+		mod0362			mod0358													mod0314
+		mod0363			mod0359													mod0317
+		mod0364			mod0360													mod0318
+		mod0366			mod0362													mod0321
+		mod0371			mod0363													mod0329
+					mod0364													mod0331
+					mod0366													mod0332
+					mod0367													mod0334
+					mod0370													mod0335
+					mod0371													mod0338
+					mod0372													mod0339
+																		mod0341
+																		mod0342
+																		mod0343
+																		mod0345
+																		mod0346
+																		mod0351
+																		mod0354
+																		mod0355
+																		mod0359
+																		mod0360
+																		mod0361
+																		mod0362
+																		mod0363
+																		mod0364
+																		mod0366
+																		mod0369
+																		mod0371
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
