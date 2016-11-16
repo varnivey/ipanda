@@ -1,0 +1,115 @@
+
+This file is a part of iPANDA package
+(in silico Pathway Activation Network Decomposition Analysis)
+The package is distributed under iPANDA license
+Version 0.0.1
+ 
+Copyright © 2016 Insilico Medicine Inc.
+
+USA, Johns Hopkins University, ETC B301, 
+1101 East 33rd St. Baltimore, MD 21218
+
+iPANDA is a pathway analysis method that aids interpretation of large-scale
+gene expression data. The method introduced here includes coexpression analysis
+and gene importance estimation to robustly identify relevant pathways and
+biomarkers for patient stratification, drug discovery and other applications.
+
+The details of the iPANDA algorithm can be found in the iPANDA manuscript:
+
+    Ozerov I.V. et al., 2016, Nature Communications, 'In silico Pathway 
+    Activation Network Decomposition Analysis (iPANDA) as a method for biomarker
+    development'. 
+
+
+The usage of the code supplied within this package is described hereafter.
+
+The code is written in Python 2.7. The code depends on numpy and scipy
+packages, which can be obtained by the following links:
+
+http://www.numpy.org/
+https://www.scipy.org/
+
+The package was tested with the following configuration:
+
+system:         x86_64 GNU/Linux Kubuntu 14.04
+python version: 2.7.6
+numpy version:  1.9.2
+scipy version:  0.16.0
+
+The only executable file inside this package is ipanda.py 
+
+To run the calculation download this package, enter the ipanda directory and
+run ipanda.py executable:
+
+Usage: ipanda.py [options]
+
+Options:
+  -h, --help    show this help message and exit
+  -i EXPR_FILE  Input file
+  -o OUTFILE    Outfile
+  -p PW_DIR     Pathway_set
+  
+
+Input expression file <EXPR_FILE> should be supplied in a tab separated format.
+File should contain the table of gene expression values with genes in lines and
+samples in columns (see the sample gene expression file within this package
+<ipanda_dir>/sample_input/sample_gene_expression_file.tsv). iPANDA algorithm
+requires two sets of samples to compare: 
+
+case samples (e.g. tumor samples, condition under study samples)
+normal samples (normal-control tissue samples)
+
+The names of normal samples should be always preceded by a keyword "Normal_".
+In case one of the tumor or normal groups of samples contains only one sample 
+single sample T-test is utilized for the statistical weights estimation. In case 
+there is only one sample in both groups statistical weights are disabled 
+(equal to 1).
+
+
+Input pathway database <PW_DIR> should be supplied in a separate directory 
+according to the following specification:
+
+1. gene_list.txt 
+List of all gene symbols in pathway database
+
+2. modules.txt
+File containing coexpression modules. Each line contains genes corresponding to
+a single module.
+
+3. pathway_contents.txt
+List of genes and gene modules in each pathway (columns correspond to pathways).
+Modules should be named as "mod<4-digit number>", where <4-digit number>
+corresponds to a number of the line in modules file containing genes within the
+module.
+
+4. pathway_akk.txt
+List of topology coefficients placed in the order corresponding to
+pathway_contents.txt file.
+
+5. pathway_list.txt
+File containing a list of pathway names within the pathway database. 
+
+
+Output file <OUTFILE> is a space separated file containing pathway activation
+scores for the tumor samples only. 
+
+
+There is a sample pathway database containing 19 KEGG pathways with 
+precalculated topology weights (see the sample pathway database in 
+<ipanda_dir>/sample_input/sample_kegg).
+
+Please cite the iPANDA paper in any publication containing results acquired 
+using this package.
+
+    Ozerov I.V. et al., 2016, Nature Communications, 'In silico Pathway 
+    Activation Network Decomposition Analysis (iPANDA) as a method for biomarker
+    development'.
+
+
+
+
+
+
+
+
+  
