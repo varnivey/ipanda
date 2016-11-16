@@ -169,7 +169,7 @@ class-action lawsuits against Licensor in relation to this license and to
 compensate Licensor for any legal fees, cost or attorney fees should any claim
 brought by Licensee against Licensor be denied, in part or in full. 
 
-12. Additional terms: 
+12. Additional terms and conditions: 
     In case of publishing any results, which were obtained using this software,
     the licensee is obliged to cite the paper describing the approach utilized
     in this software as follows: 
