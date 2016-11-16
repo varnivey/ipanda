@@ -47,7 +47,7 @@ pathway_file = os.path.join(pw_dir,'pathway_list.txt')
 
 calc_alg = 'oncofinder_like'
 gene_file = os.path.join(pw_dir,'pathway_contents.txt')
-arr_file = os.path.join(pw_dir,'pathway_akk_new_walker.txt')
+arr_file = os.path.join(pw_dir,'pathway_akk.txt')
 
 expr_file=options.expr_file
 outfile=options.outfile
