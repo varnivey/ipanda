@@ -4,6 +4,7 @@
 ### This file is a part of iPANDA package
 ### (in silico Pathway Activation Network Decomposition Analysis)
 ### The package is distributed under iPANDA license
+### Version 0.0.1
 ###
 ### Copyright © 2016 Insilico Medicine Inc.
 ###
