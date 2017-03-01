@@ -423,7 +423,7 @@ def randomize_samples(sample):
         return sample
 
     mean = np.mean(sample)
-    std = mean/20.
+    std = np.abs(mean/20.)
     if std == 0:
         std = 0.001
 
